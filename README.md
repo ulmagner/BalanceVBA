@@ -1,4 +1,4 @@
 # BalanceVBA
 Balance formating
 
-![Project Demo](Balance.png)
+![Project Demo](Balance.PNG)
